@@ -1,12 +1,6 @@
-﻿using IntroToProgramming.Common_Design_Patterns.Adapter_Design_Pattern;
-using IntroToProgramming.Common_Design_Patterns.Factory_Design_Pattern;
-using IntroToProgramming.Common_Design_Patterns.Strategy_Design_Pattern;
-using IntroToProgramming.Inheritence;
+﻿using IntroToProgramming.Inheritence;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
 
 namespace IntroToProgramming
 {
