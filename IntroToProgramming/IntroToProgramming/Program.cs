@@ -32,6 +32,11 @@ namespace IntroToProgramming
             //Console.WriteLine(whatToSayAsAString);
             //Console.WriteLine($"Hello {myName}!");
 
+
+
+
+
+
             #endregion
 
             #region String Length
@@ -56,7 +61,7 @@ namespace IntroToProgramming
             //Console.WriteLine($"1st string is {emptyString.Length} characters long.");
 
             //// this line will throw an exception (uncomment it to confirm)
-            //// Console.WriteLine($"2nd string is {nullString.Length} characters long.");
+            ////Console.WriteLine($"2nd string is {nullString.Length} characters long.");
             #endregion
 
             #region String Operations
