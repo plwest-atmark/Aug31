@@ -1,6 +1,7 @@
 ﻿using IntroToProgramming.Inheritence;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace IntroToProgramming
 {
@@ -22,9 +23,9 @@ namespace IntroToProgramming
 
             #region String Declaration
 
+
             //var whatToSayAsVar = "Hello World as var";
             //string whatToSayAsAString = "Hello World as String";
-
             //string myName = "Paul";
 
             //Console.WriteLine("Hello World!");
@@ -36,8 +37,10 @@ namespace IntroToProgramming
 
             #region String Length
 
+
             //string empty1 = "";
             //string empty2 = String.Empty;
+
 
             //Console.WriteLine(empty1.Length);
             //Console.WriteLine(empty2.Length);
@@ -56,7 +59,9 @@ namespace IntroToProgramming
             //Console.WriteLine($"1st string is {emptyString.Length} characters long.");
 
             //// this line will throw an exception (uncomment it to confirm)
-            //// Console.WriteLine($"2nd string is {nullString.Length} characters long.");
+            //Console.WriteLine($"2nd string is {nullString.Length} characters long.");
+
+
             #endregion
 
             #region String Operations
